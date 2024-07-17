@@ -1,4 +1,4 @@
-![MasterHead](https://www.bleepstatic.com/content/hl-images/2018/07/13/GitHub-logo.png)
+![MasterHead](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif)
 
 <h1 align="center">Hey 👋, I'm Shubham Patil</h1> <br> 
 <h3 align="center"> I’m a final-year B.Tech student specializing in Computer Science and Information Technology at Rajarambapu Institute of Technology. Driven by a passion for technology and its potential to create positive change, I am dedicated to deepening my expertise across various IT fields. As I approach the culmination of my academic journey, I’m excited about applying my knowledge to real-world challenges and innovations.</h3> <br>

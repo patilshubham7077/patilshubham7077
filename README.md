@@ -22,7 +22,7 @@
 - I’m a proud member of the college basketball team, where I play as a defender and rebounder. Participating in sports has honed my teamwork, discipline, and strategic thinking, complementing my technical skills and personal growth.
   
 **🚀📞 Collaborations and Opportunities:** 
-- I’m always open to exploring new ideas and opportunities in tech. If you’re interested in collaborating on projects, discussing innovative solutions, or simply sharing insights, feel free to reach out. Let’s explore how we can create something impactful together!](I’m always open to exploring new ideas and opportunities in tech. If you’re interested in collaborating on projects, discussing innovative solutions, or simply sharing insights, feel free to reach out. Let’s explore how we can create something impactful together!
+- I’m always open to exploring new ideas and opportunities in tech. If you’re interested in collaborating on projects, discussing innovative solutions, or simply sharing insights, feel free to reach out. Let’s explore how we can create something impactful together!
 
 
 
